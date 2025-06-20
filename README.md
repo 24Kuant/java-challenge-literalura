@@ -1,4 +1,15 @@
 
+<div align="center">
+  <h1 align="center">
+     Challenge LiterAlura
+    <br />
+    <br />
+    <a href="https://github.com/24Kuant/java-challenge-literalura">
+      <img src="https://github.com/24Kuant/java-challenge-literalura/blob/main/src/main/resources/fondo.png" alt="♨️ imagen-LiterAlura ⚙️">
+    </a>
+  </h1>
+</div>
+
 # 🧪 Literalura — Challenge: Java + Spring Boot + PostgreSQL
 
 > Aplicación de consola desarrollada como parte de un reto técnico. Consulta libros desde una API pública, los persiste en base de datos y permite consultas locales.
@@ -86,6 +97,7 @@ literalura/
 - ✅ Persistencia sólida con JPA y PostgreSQL.
 - ✅ Separación de responsabilidades.
 - ✅ Código fácil de mantener y escalar.
+- ✅ Uso de Paginación.
 
 ---
 
@@ -99,11 +111,11 @@ literalura/
 
 ## 🙋 Sobre mí
 
-Este reto fue desarrollado por **[tu nombre o usuario]** como ejercicio de evaluación técnica.  
+Este reto fue desarrollado por **24Kuant** como ejercicio para reforzar los conocimientos adquiridos en java. **Programa Alura ONE G8 2025**.  
 Estoy abierto a feedback y nuevas oportunidades 🚀
 
 ---
 
 ## 📄 Licencia
 
-MIT © [Año] - Uso libre para fines educativos y profesionales.
+MIT © [2025] - Uso libre para fines educativos y profesionales.
